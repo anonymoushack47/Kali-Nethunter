@@ -5,5 +5,3 @@ cd Kali-Nethunter
 chmod +x *
 
 ./kalinethunter
-
-startkali
