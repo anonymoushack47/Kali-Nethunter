@@ -206,7 +206,7 @@ printline
 printf "\n${yellow} Now you can enjoy Kali Nethuter in your Termux :)\n Don't forget to like my hard work for termux and many other things\n"
 printline
 printline
-printf "\n${blue} [∆] E-mail:${yellow}	sahkuldip625@gmail.com\n"
+printf "\n${blue} [∆] E-mail:${yellow}	        sahkuldip625@gmail.com\n"
 printf "$blue [∆] Instagram:${yellow}		@anonymoushack47\n"
 printf "$blue [∆] YouTube channel:${yellow}	Anonymous Hack47\n"
 printline
